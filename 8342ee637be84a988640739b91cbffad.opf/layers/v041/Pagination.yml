@@ -532,77 +532,77 @@ annotations:
     reference: ''
     span:
       start: 97887
-      end: 99324
+      end: 99325
     note_ref: ea6001623364411c9d8e659ce45d8d52
   2c1612b79d6e447d81c97e4652b8d8eb:
     imgnum: 1132
     reference: ''
     span:
-      start: 99326
-      end: 100588
+      start: 99327
+      end: 100589
     note_ref: ea6001623364411c9d8e659ce45d8d52
   39474c0ce4a44d3da5ca212f21bf1a16:
     imgnum: 1133
     reference: ''
     span:
-      start: 100590
-      end: 101903
+      start: 100591
+      end: 101904
     note_ref: ea6001623364411c9d8e659ce45d8d52
   f7fde838df9447cea796b94f198554bb:
     imgnum: 1134
     reference: ''
     span:
-      start: 101905
-      end: 102858
+      start: 101906
+      end: 102859
     note_ref: ea6001623364411c9d8e659ce45d8d52
   ce0a50d46b3747fa9befbdbef4ad67b2:
     imgnum: 1135
     reference: ''
     span:
-      start: 102860
-      end: 104485
+      start: 102861
+      end: 104486
   d76c1c8d66a049d6a30b882f444c367f:
     imgnum: 1136
     reference: ''
     span:
-      start: 104487
-      end: 106730
+      start: 104488
+      end: 106731
   8d4bdb6c3dae4203847535c5c5cc079d:
     imgnum: 1137
     reference: ''
     span:
-      start: 106732
-      end: 108624
+      start: 106733
+      end: 108625
   4e9fdd50468d4559a98f24b3817574e1:
     imgnum: 1138
     reference: ''
     span:
-      start: 108626
-      end: 110538
+      start: 108627
+      end: 110539
   b58b92a9b7554472a95aa37c651ad5f6:
     imgnum: 1139
     reference: ''
     span:
-      start: 110540
-      end: 112488
+      start: 110541
+      end: 112489
   8e5fe9e73b0544d5b0fea39719cbf88c:
     imgnum: 1140
     reference: ''
     span:
-      start: 112490
-      end: 114610
+      start: 112491
+      end: 114611
   d6f0e1f4fe0a4dbca10ee3e77b20e6b5:
     imgnum: 1141
     reference: ''
     span:
-      start: 114612
-      end: 116485
+      start: 114613
+      end: 116486
   ea6001623364411c9d8e659ce45d8d52:
     imgnum: 1142
     reference: ''
     span:
-      start: 116487
-      end: 118560
+      start: 116488
+      end: 118561
 local_ids:
   09e79421811645bf875805106f5e948b: 200000
   0e81e62414fa468ca123a5c8fc4e28d7: 200001
