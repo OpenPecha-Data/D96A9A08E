@@ -553,56 +553,56 @@ annotations:
     reference: ''
     span:
       start: 101905
-      end: 102858
+      end: 102842
     note_ref: ea6001623364411c9d8e659ce45d8d52
   ce0a50d46b3747fa9befbdbef4ad67b2:
     imgnum: 1135
     reference: ''
     span:
-      start: 102860
-      end: 104485
+      start: 102844
+      end: 104469
   d76c1c8d66a049d6a30b882f444c367f:
     imgnum: 1136
     reference: ''
     span:
-      start: 104487
-      end: 106730
+      start: 104471
+      end: 106714
   8d4bdb6c3dae4203847535c5c5cc079d:
     imgnum: 1137
     reference: ''
     span:
-      start: 106732
-      end: 108624
+      start: 106716
+      end: 108608
   4e9fdd50468d4559a98f24b3817574e1:
     imgnum: 1138
     reference: ''
     span:
-      start: 108626
-      end: 110538
+      start: 108610
+      end: 110522
   b58b92a9b7554472a95aa37c651ad5f6:
     imgnum: 1139
     reference: ''
     span:
-      start: 110540
-      end: 112488
+      start: 110524
+      end: 112472
   8e5fe9e73b0544d5b0fea39719cbf88c:
     imgnum: 1140
     reference: ''
     span:
-      start: 112490
-      end: 114610
+      start: 112474
+      end: 114594
   d6f0e1f4fe0a4dbca10ee3e77b20e6b5:
     imgnum: 1141
     reference: ''
     span:
-      start: 114612
-      end: 116485
+      start: 114596
+      end: 116469
   ea6001623364411c9d8e659ce45d8d52:
     imgnum: 1142
     reference: ''
     span:
-      start: 116487
-      end: 118562
+      start: 116471
+      end: 118546
 local_ids:
   09e79421811645bf875805106f5e948b: 200000
   0e81e62414fa468ca123a5c8fc4e28d7: 200001
